@@ -1,4 +1,4 @@
-# Get-Next-Lyrics
+# Get-Next-Lyrics 接歌
 1、搜集歌手(source:QQ音乐)
 2、搜集前5000名歌手前两页(20首)歌曲信息，其中歌词为全部歌词
 3、将数据库传到elastic
